@@ -1,0 +1,4 @@
+['<DataRequest><Query><Text>\nSHOW\n1: Settlement of DE.USD_2015Z\nWHEN\nDate is from 04/16/2014 to 04/16/2015\nSHOW\n2.1: Settlement of DE.USD_2014Z\nWHEN\nDate is from 01/01/2014 to 04/16/2014\n</Text></Query></DataRequest>']
+['<DataRequest><Query><Text>\nSHOW\n1: Settlement of DE.USD_2015Z\nWHEN\nDate is from 04/16/2014 to 04/16/2015\nSHOW\n2.1: Settlement of DE.USD_2014Z\nWHEN\nDate is from 01/01/2014 to 04/16/2014\n</Text></Query></DataRequest>']
+['<DataRequest><Query><Text>\nSHOW\n1: Settlement of DE.USD_2015Z\nWHEN\nDate is from 04/16/2014 to 04/16/2015\nSHOW\n2.1: Settlement of DE.USD_2014Z\nWHEN\nDate is from 01/01/2014 to 04/16/2014\n</Text></Query></DataRequest>']
+['<DataRequest><Query><Text>\nSHOW\n1: Settlement of DE.USD_2015Z\nWHEN\nDate is from 04/16/2014 to 04/16/2015\nSHOW\n2.1: Settlement of DE.USD_2014Z\nWHEN\nDate is from 01/01/2014 to 04/16/2014\n</Text></Query></DataRequest>']
